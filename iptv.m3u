@@ -100,11 +100,11 @@ http://211.245.55.198:22514/m2u/239.192.69.236:49220&transcoder=h264ts&bitrate=1
 #EXTINF:-1 tvg-id="46" tvg-logo="http://i.imgur.com/fwjRwkx.png" tvh-chnum="53" tvh-tags="채널CGV",Ch CGV
 http://211.245.55.198:22514/m2u/239.192.51.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 #EXTINF:-1 tvg-id="46" tvg-logo="http://i.imgur.com/qK9KkRd.png" tvh-chnum="53" tvh-tags="캐치ON",캐치ON
-http://211.245.55.198:22514/m2u/239.192.69.134:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+http://58.233.254.94:9981/stream/channelid/525480405
 #EXTINF:-1 tvg-id="47" tvg-logo="http://i.imgur.com/IXh6dwo.png" tvh-chnum="54" tvh-tags="OCN",OCN
 http://211.245.55.198:22514/m2u/239.192.52.8:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 #EXTINF:-1 tvg-id="48" tvg-logo="http://i.imgur.com/D9PzDBr.png" tvh-chnum="55" tvh-tags="슈퍼액션",SUPER ACTION
-http://116.125.55.15:22514/m2u/239.192.53.9:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+http://58.233.254.94:9981/stream/channelid/1234424154
 #EXTINF:-1 tvg-id="49" tvg-logo="http://i.imgur.com/lTK9VD4.png" tvh-chnum="56" tvh-tags="스크린",Screen
 http://211.245.55.198:22514/m2u/239.192.67.229:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 #EXTINF:-1 tvg-id="50" tvg-logo="http://i.imgur.com/dOOBYJm.png" tvh-chnum="57" tvh-tags="mplex",Mplex
