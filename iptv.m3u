@@ -1,311 +1,100 @@
-#EXTM3U
-#EXTINF:-1,SBS Plus
-http://58.233.254.94:9981/stream/channelid/643675281
-#EXTINF:-1,SBS
-http://58.233.254.94:9981/stream/channelid/825618962
-#EXTINF:-1,CJ오쇼핑
-http://58.233.254.94:9981/stream/channelid/1580601322
-#EXTINF:-1,KBS2
-http://58.233.254.94:9981/stream/channelid/1488141598
-#EXTINF:-1,현대홈쇼핑
-http://58.233.254.94:9981/stream/channelid/177625229
-#EXTINF:-1,롯데홈쇼핑
-http://58.233.254.94:9981/stream/channelid/69761533
-#EXTINF:-1,MBC
-http://58.233.254.94:9981/stream/channelid/1520843518
-#EXTINF:-1,GS SHOP
-http://58.233.254.94:9981/stream/channelid/1223525512
-#EXTINF:-1,EBS
-http://58.233.254.94:9981/stream/channelid/257540519
-#EXTINF:-1,NS홈쇼핑
-http://58.233.254.94:9981/stream/channelid/1809016303
-#EXTINF:-1,NS홈쇼핑
-http://58.233.254.94:9981/stream/channelid/184212793
-#EXTINF:-1,JTBC
-http://58.233.254.94:9981/stream/channelid/1331736899
-#EXTINF:-1,MBN
-http://58.233.254.94:9981/stream/channelid/1444176249
-#EXTINF:-1,tvN
-http://58.233.254.94:9981/stream/channelid/632204715
-#EXTINF:-1,채널A
-http://58.233.254.94:9981/stream/channelid/39614237
-#EXTINF:-1,TV조선
-http://58.233.254.94:9981/stream/channelid/149063186
-#EXTINF:-1,OBS
-http://58.233.254.94:9981/stream/channelid/122457713
-#EXTINF:-1,SK stoa
-http://58.233.254.94:9981/stream/channelid/186409337
-#EXTINF:-1,신세계쇼핑
-http://58.233.254.94:9981/stream/channelid/1786029338
-#EXTINF:-1,연합뉴스TV
-http://58.233.254.94:9981/stream/channelid/387688115
-#EXTINF:-1,연합뉴스TV
-http://58.233.254.94:9981/stream/channelid/469911994
-#EXTINF:-1,YTN
-http://58.233.254.94:9981/stream/channelid/418893113
-#EXTINF:-1,K쇼핑
-http://58.233.254.94:9981/stream/channelid/1532306575
-#EXTINF:-1,SBS CNBC
-http://58.233.254.94:9981/stream/channelid/1382011607
-#EXTINF:-1,SBS CNBC
-http://58.233.254.94:9981/stream/channelid/106734656
-#EXTINF:-1,Mnet
-http://58.233.254.94:9981/stream/channelid/1244659146
-#EXTINF:-1,MBC Every1
-http://58.233.254.94:9981/stream/channelid/2023817829
-#EXTINF:-1,GS MY SHOP
-http://58.233.254.94:9981/stream/channelid/387460333
-#EXTINF:-1,KBS DRAMA
-http://58.233.254.94:9981/stream/channelid/1538142807
-#EXTINF:-1,쇼핑엔T
-http://58.233.254.94:9981/stream/channelid/1801361832
-#EXTINF:-1,CJ오쇼핑 플러스
-http://58.233.254.94:9981/stream/channelid/1065463807
-#EXTINF:-1,올리브
-http://58.233.254.94:9981/stream/channelid/2008941257
-#EXTINF:-1,롯데원티비
-http://58.233.254.94:9981/stream/channelid/258116143
-#EXTINF:-1,W 쇼핑
-http://58.233.254.94:9981/stream/channelid/272242676
-#EXTINF:-1,드라맥스
-http://58.233.254.94:9981/stream/channelid/1290366126
-#EXTINF:-1,Drama
-http://58.233.254.94:9981/stream/channelid/525234474
-#EXTINF:-1,Drama
-http://58.233.254.94:9981/stream/channelid/797032617
-#EXTINF:-1,디원
-http://58.233.254.94:9981/stream/channelid/1375689321
-#EXTINF:-1,디원
-http://58.233.254.94:9981/stream/channelid/1327738756
-#EXTINF:-1,드라마H
-http://58.233.254.94:9981/stream/channelid/1969925407
-#EXTINF:-1,HQ
-http://58.233.254.94:9981/stream/channelid/1773266861
-#EXTINF:-1,캐치온1
-http://58.233.254.94:9981/stream/channelid/525480405
-#EXTINF:-1,채널CGV
-http://58.233.254.94:9981/stream/channelid/454524529
-#EXTINF:-1,OCN
-http://58.233.254.94:9981/stream/channelid/1371731539
-#EXTINF:-1,슈퍼액션
-http://58.233.254.94:9981/stream/channelid/1234424154
-#EXTINF:-1,스크린
-http://58.233.254.94:9981/stream/channelid/836920143
-#EXTINF:-1,스크린
-http://58.233.254.94:9981/stream/channelid/1362382870
-#EXTINF:-1,mplex
-http://58.233.254.94:9981/stream/channelid/281995229
-#EXTINF:-1,THE MOVIE
-http://58.233.254.94:9981/stream/channelid/578255304
-#EXTINF:-1,인디필름
-http://58.233.254.94:9981/stream/channelid/719090631
-#EXTINF:-1,KBS JOY
-http://58.233.254.94:9981/stream/channelid/215762606
-#EXTINF:-1,KBS JOY
-http://58.233.254.94:9981/stream/channelid/881418379
-#EXTINF:-1,SBS funE
-http://58.233.254.94:9981/stream/channelid/207217469
-#EXTINF:-1,JTBC2
-http://58.233.254.94:9981/stream/channelid/582339505
-#EXTINF:-1,E채널
-http://58.233.254.94:9981/stream/channelid/1300161564
-#EXTINF:-1,O tvN
-http://58.233.254.94:9981/stream/channelid/569835907
-#EXTINF:-1,XtvN
-http://58.233.254.94:9981/stream/channelid/721647970
-#EXTINF:-1,코미디TV
-http://58.233.254.94:9981/stream/channelid/157024203
-#EXTINF:-1,K STAR
-http://58.233.254.94:9981/stream/channelid/356786686
-#EXTINF:-1,FUN TV
-http://58.233.254.94:9981/stream/channelid/927857958
-#EXTINF:-1,마이펫TV
-http://58.233.254.94:9981/stream/channelid/1660453232
-#EXTINF:-1,CMC가족오락TV
-http://58.233.254.94:9981/stream/channelid/1928780129
-#EXTINF:-1,EBS2
-http://58.233.254.94:9981/stream/channelid/1786423848
-#EXTINF:-1,DIA TV
-http://58.233.254.94:9981/stream/channelid/1032580456
-#EXTINF:-1,MBN Plus
-http://58.233.254.94:9981/stream/channelid/984416380
-#EXTINF:-1,FOX
-http://58.233.254.94:9981/stream/channelid/640908712
-#EXTINF:-1,AXN
-http://58.233.254.94:9981/stream/channelid/146838983
-#EXTINF:-1,채널 J
-http://58.233.254.94:9981/stream/channelid/1262461927
-#EXTINF:-1,중화TV
-http://58.233.254.94:9981/stream/channelid/1322253351
-#EXTINF:-1,SPOTV
-http://58.233.254.94:9981/stream/channelid/335423295
-#EXTINF:-1,KBS N Sports
-http://58.233.254.94:9981/stream/channelid/164252567
-#EXTINF:-1,SBS Sports
-http://58.233.254.94:9981/stream/channelid/1473368654
-#EXTINF:-1,MBC SPORTS
-http://58.233.254.94:9981/stream/channelid/716509664
-#EXTINF:-1,Sports
-http://58.233.254.94:9981/stream/channelid/1543681264
-#EXTINF:-1,SPOTV
-http://58.233.254.94:9981/stream/channelid/1711432521
-#EXTINF:-1,SPOTV2
-http://58.233.254.94:9981/stream/channelid/1376574056
-#EXTINF:-1,IB SPORTS
-http://58.233.254.94:9981/stream/channelid/1743671451
-#EXTINF:-1,빌리어즈티비
-http://58.233.254.94:9981/stream/channelid/324279636
-#EXTINF:-1,SBS GOLF
-http://58.233.254.94:9981/stream/channelid/618960077
-#EXTINF:-1,JTBC Golf
-http://58.233.254.94:9981/stream/channelid/78225720
-#EXTINF:-1,The Golf Channel
-http://58.233.254.94:9981/stream/channelid/47525418
-#EXTINF:-1,Euro sport
-http://58.233.254.94:9981/stream/channelid/1339141241
-#EXTINF:-1,Star Sports
-http://58.233.254.94:9981/stream/channelid/6148052
-#EXTINF:-1,OGN
-http://58.233.254.94:9981/stream/channelid/1814998287
-#EXTINF:-1,SPOTV Games
-http://58.233.254.94:9981/stream/channelid/964192264
-#EXTINF:-1,스크린 골프존
-http://58.233.254.94:9981/stream/channelid/1255672754
-#EXTINF:-1,인도어스포츠
-http://58.233.254.94:9981/stream/channelid/1280804986
-#EXTINF:-1,토마토TV
-http://58.233.254.94:9981/stream/channelid/338019079
-#EXTINF:-1,YTN life
-http://58.233.254.94:9981/stream/channelid/1462603615
-#EXTINF:-1,CNN International
-http://58.233.254.94:9981/stream/channelid/1459523883
-#EXTINF:-1,CNN US
-http://58.233.254.94:9981/stream/channelid/847862055
-#EXTINF:-1,CGTN
-http://58.233.254.94:9981/stream/channelid/1978831408
-#EXTINF:-1,내외경제TV
-http://58.233.254.94:9981/stream/channelid/1225732140
-#EXTINF:-1,Tooniverse
-http://58.233.254.94:9981/stream/channelid/1925719236
-#EXTINF:-1,Disney Channel
-http://58.233.254.94:9981/stream/channelid/1965046783
-#EXTINF:-1,디즈니주니어
-http://58.233.254.94:9981/stream/channelid/1589972959
-#EXTINF:-1,니켈로디언
-http://58.233.254.94:9981/stream/channelid/1470744070
-#EXTINF:-1,뽀요TV
-http://58.233.254.94:9981/stream/channelid/531764308
-#EXTINF:-1,캐리TV
-http://58.233.254.94:9981/stream/channelid/1407620137
-#EXTINF:-1,KBS kids
-http://58.233.254.94:9981/stream/channelid/467743915
-#EXTINF:-1,EBS kids
-http://58.233.254.94:9981/stream/channelid/1257672148
-#EXTINF:-1,Baby TV
-http://58.233.254.94:9981/stream/channelid/276110877
-#EXTINF:-1,JEI EnglishTV
-http://58.233.254.94:9981/stream/channelid/722844708
-#EXTINF:-1,EBS English
-http://58.233.254.94:9981/stream/channelid/550725780
-#EXTINF:-1,EBS PLUS2
-http://58.233.254.94:9981/stream/channelid/433639540
-#EXTINF:-1,edu TV
-http://58.233.254.94:9981/stream/channelid/1932952607
-#EXTINF:-1,온스타일
-http://58.233.254.94:9981/stream/channelid/1740054092
-#EXTINF:-1,KBS W
-http://58.233.254.94:9981/stream/channelid/196885467
-#EXTINF:-1,GTV
-http://58.233.254.94:9981/stream/channelid/1407228395
-#EXTINF:-1,OBS W
-http://58.233.254.94:9981/stream/channelid/1051112600
-#EXTINF:-1,9colors
-http://58.233.254.94:9981/stream/channelid/794871234
-#EXTINF:-1,NHK World TV
-http://58.233.254.94:9981/stream/channelid/1381918444
-#EXTINF:-1,JTBC4
-http://58.233.254.94:9981/stream/channelid/1802236088
-#EXTINF:-1,SBS MTV
-http://58.233.254.94:9981/stream/channelid/2087763465
-#EXTINF:-1,MBC MUSIC
-http://58.233.254.94:9981/stream/channelid/355200144
-#EXTINF:-1,아이넷TV
-http://58.233.254.94:9981/stream/channelid/163949966
-#EXTINF:-1,예술 TV아르떼
-http://58.233.254.94:9981/stream/channelid/516111758
-#EXTINF:-1,CLASSICA
-http://58.233.254.94:9981/stream/channelid/1820289345
-#EXTINF:-1,i-Concerts
-http://58.233.254.94:9981/stream/channelid/1055675306
-#EXTINF:-1,C Music TV
-http://58.233.254.94:9981/stream/channelid/1446680819
-#EXTINF:-1,이벤트TV
-http://58.233.254.94:9981/stream/channelid/1784118284
-#EXTINF:-1,BET
-http://58.233.254.94:9981/stream/channelid/1907299155
-#EXTINF:-1,바둑TV
-http://58.233.254.94:9981/stream/channelid/1734593987
-#EXTINF:-1,ONT
-http://58.233.254.94:9981/stream/channelid/793595305
-#EXTINF:-1,폴라리스TV
-http://58.233.254.94:9981/stream/channelid/734417577
-#EXTINF:-1,디스커버리채널
-http://58.233.254.94:9981/stream/channelid/442207824
-#EXTINF:-1,History
-http://58.233.254.94:9981/stream/channelid/1517792147
-#EXTINF:-1,BBC Earth
-http://58.233.254.94:9981/stream/channelid/474836610
-#EXTINF:-1,NatGeo Wild
-http://58.233.254.94:9981/stream/channelid/322559303
-#EXTINF:-1,리얼TV
-http://58.233.254.94:9981/stream/channelid/905404588
-#EXTINF:-1,쿠키건강TV
-http://58.233.254.94:9981/stream/channelid/964853838
-#EXTINF:-1,아리랑 TV
-http://58.233.254.94:9981/stream/channelid/967333050
-#EXTINF:-1,tbsTV
-http://58.233.254.94:9981/stream/channelid/1854382331
-#EXTINF:-1,MBC NET
-http://58.233.254.94:9981/stream/channelid/1467123780
-#EXTINF:-1,CCTV4
-http://58.233.254.94:9981/stream/channelid/48825406
-#EXTINF:-1,TV5MONDE
-http://58.233.254.94:9981/stream/channelid/833574354
-#EXTINF:-1,국회방송
-http://58.233.254.94:9981/stream/channelid/746953162
-#EXTINF:-1,CBS
-http://58.233.254.94:9981/stream/channelid/553355294
-#EXTINF:-1,CTS기독교TV
-http://58.233.254.94:9981/stream/channelid/1099035703
-#EXTINF:-1,CGNTV
-http://58.233.254.94:9981/stream/channelid/892624482
-#EXTINF:-1,Good TV
-http://58.233.254.94:9981/stream/channelid/1887765980
-#EXTINF:-1,C channel
-http://58.233.254.94:9981/stream/channelid/1026089007
-#EXTINF:-1,BTN불교TV
-http://58.233.254.94:9981/stream/channelid/1091379920
-#EXTINF:-1,STB상생방송
-http://58.233.254.94:9981/stream/channelid/207510603
-#EXTINF:-1,WBS원음방송
-http://58.233.254.94:9981/stream/channelid/735793172
-#EXTINF:-1,KBS DRAMA
-http://58.233.254.94:9981/stream/channelid/780176976
-#EXTINF:-1,FOX
-http://58.233.254.94:9981/stream/channelid/290559445
-#EXTINF:-1,SPOTV
-http://58.233.254.94:9981/stream/channelid/605089426
-#EXTINF:-1,SBS Sports
-http://58.233.254.94:9981/stream/channelid/676052876
-#EXTINF:-1,MBC SPORTS
-http://58.233.254.94:9981/stream/channelid/883350375
-#EXTINF:-1,SBS GOLF
-http://58.233.254.94:9981/stream/channelid/614891392
-#EXTINF:-1,JTBC Golf
-http://58.233.254.94:9981/stream/channelid/560307470
-#EXTINF:-1,SBS MTV
-http://58.233.254.94:9981/stream/channelid/1287343427
-#EXTINF:-1,MBC MUSIC
-http://58.233.254.94:9981/stream/channelid/43032239
-#EXTINF:-1,원음방송
-http://58.233.254.94:9981/stream/channelid/557154944
+#EXTINF:-1 tvg-id="1" tvg-logo="http://gaekona.com/tv/btv.jpg" tvh-chnum="1" tvh-tags="Btv",Btv
+http://211.245.55.198:22514/m2u/239.192.67.34:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+
+#EXTINF:-1 tvg-id="2" tvg-logo="http://i.imgur.com/asfyrTm.png" tvh-chnum="2" tvh-tags="SBS Plus",SBS 플러스
+http://211.245.55.198:22514/m2u/239.192.49.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="3" tvg-logo="http://i.imgur.com/E3pJ5Jz.png" tvh-chnum="3" tvh-tags="아임쇼핑",아임쇼핑
+http://211.245.55.198:22514/m2u/239.192.66.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="4" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvh-chnum="4" tvh-tags="홈&쇼핑",홈&쇼핑
+http://211.245.55.198:22514/m2u/239.192.53.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="5" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvh-chnum="5" tvh-tags="SBS",SBS
+http://211.245.55.198:22514/m2u/239.192.41.2:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="6" tvg-logo="http://i.imgur.com/uBClUx6.png" tvh-chnum="6" tvh-tags="CJ오쇼핑",CJ오쇼핑
+http://211.245.55.198:22514/m2u/239.192.58.11:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="7" tvg-logo="http://i.imgur.com/XgibZbD.png" tvh-chnum="7" tvh-tags="KBS2",KBS2
+http://211.245.55.198:22514/m2u/239.192.67.99:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="8" tvg-logo="http://i.imgur.com/87fdrA5.png" tvh-chnum="8" tvh-tags="현대홈쇼핑",현대홈쇼핑
+http://211.245.55.198:22514/m2u/239.192.67.195:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="9" tvg-logo="http://i.imgur.com/e31o5gw.png" tvh-chnum="9" tvh-tags="KBS1",KBS1
+http://211.245.55.198:22514/m2u/239.192.38.1:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="10" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvh-chnum="10" tvh-tags="롯데홈쇼핑",롯데홈쇼핑
+http://211.245.55.198:22514/m2u/239.192.56.5:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="11" tvg-logo="http://i.imgur.com/duig32i.png" tvh-chnum="11" tvh-tags="MBC",MBC
+http://211.245.55.198:22514/m2u/239.192.40.26:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="12" tvg-logo="http://i.imgur.com/tz88mYd.png" tvh-chnum="12" tvh-tags="GS SHOP",GS SHOP
+http://211.245.55.198:22514/m2u/239.192.49.4:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="13" tvg-logo="http://i.imgur.com/WViFruZ.png" tvh-chnum="13" tvh-tags="EBS",EBS
+http://211.245.55.198:22514/m2u/239.192.42.1:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="14" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvh-chnum="14" tvh-tags="NS홈쇼핑",NS홈쇼핑
+http://211.245.55.198:22514/m2u/239.192.52.10:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="15" tvg-logo="http://i.imgur.com/YOYosLG.png" tvh-chnum="15" tvh-tags="JTBC",JTBC
+http://211.245.55.198:22514/m2u/239.192.58.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="16" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvh-chnum="16" tvh-tags="MBN",MBN
+http://211.245.55.198:22514/m2u/239.192.45.5:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="17" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvh-chnum="17" tvh-tags="tvN",tvN
+http://211.245.55.198:22514/m2u/239.192.53.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="18" tvg-logo="http://i.imgur.com/rRisTh8.png" tvh-chnum="18" tvh-tags="채널 A",채널 A
+http://211.245.55.198:22514/m2u/239.192.47.4:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="19" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvh-chnum="19" tvh-tags="TV 조선",TV 조선
+http://211.245.55.198:22514/m2u/239.192.50.3:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="20" tvg-logo="http://i.imgur.com/uZkbU7b.png" tvh-chnum="20" tvh-tags="HD OBS W",OBSW
+http://211.245.55.198:22514/m2u/239.192.65.16:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="21" tvg-logo="http://gaekona.com/tv/spotv2.jpg" tvh-chnum="21" tvh-tags="SPOTV N2",SPOTV N2
+http://211.245.55.198:22514/m2u/239.192.69.10:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="22" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvh-chnum="22" tvh-tags="신세계쇼핑",신세계쇼핑
+http://211.245.55.198:22514/m2u/239.192.64.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="23" tvg-logo="http://i.imgur.com/KlTCP8V.png" tvh-chnum="23" tvh-tags="연합뉴스TV",연합뉴스TV
+http://211.245.55.198:22514/m2u/239.192.57.3:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="24" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvh-chnum="24" tvh-tags="YTN",YTN
+http://211.245.55.198:22514/m2u/239.192.47.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="25" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvh-chnum="25" tvh-tags="K쇼핑",K쇼핑
+http://211.245.55.198:22514/m2u/239.192.66.17:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i.imgur.com/8pwPc5R.png" tvh-chnum="25" tvh-tags="SK STOA
+http://211.245.55.198:22514/m2u/239.192.65.9:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="26" tvg-logo="http://i.imgur.com/SfDs4qN.png" tvh-chnum="26" tvh-tags="SBS CNBC",SBS CNBC
+http://211.245.55.198:22514/m2u/239.192.53.8:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="27" tvg-logo="http://i.imgur.com/putHm2b.png" tvh-chnum="27" tvh-tags="M-NET",M-NET
+http://211.245.55.198:22514/m2u/239.192.48.5:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="28" tvg-logo="http://i.imgur.com/oOnpFes.png" tvh-chnum="28" tvh-tags="MBC Every1",MBC Every1
+http://211.245.55.198:22514/m2u/239.192.50.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="29" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvh-chnum="29" tvh-tags="GS MY SHOP",GS MY SHOP
+http://211.245.55.198:22514/m2u/239.192.66.4:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="30" tvg-logo="http://i.imgur.com/CrLMIEQ.png" tvh-chnum="30" tvh-tags="KBS DRAMA",KBS 드라마
+http://211.245.55.198:22514/m2u/239.192.49.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="31" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvh-chnum="31" tvh-tags="현대홈쇼핑+샵",현대홈쇼핑+Shop
+http://211.245.55.198:22514/m2u/239.192.69.110:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="32" tvg-logo="http://i.imgur.com/VBMFcZ3.png" tvh-chnum="32" tvh-tags="MBC DRAMA",MBC DRAMA
+http://211.245.55.198:22514/m2u/239.192.48.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="33" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvh-chnum="33" tvh-tags="CJ오쇼핑 플러스",CJ오쇼핑 플러스
+http://211.245.55.198:22514/m2u/239.192.64.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="34" tvg-logo="http://i.imgur.com/0SMl3O5.png" tvh-chnum="34" tvh-tags="O tvN",O tvN
+http://211.245.55.198:22514/m2u/239.192.53.10:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="35" tvg-logo="http://i.imgur.com/Q7FHxYB.png" tvh-chnum="35" tvh-tags="쇼핑엔T",쇼핑 앤 T
+http://211.245.55.198:22514/m2u/239.192.69.109:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="23" tvg-logo="http://i.imgur.com/4ESaIH6.png" tvh-chnum="36" tvh-tags="드라마큐브",드라마큐브
+http://116.125.55.136:22514/m2u/239.192.62.13:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+
+
+#EXTINF:-1 tvg-id="37" tvg-logo="http://i.imgur.com/jcguamX.png" tvh-chnum="38" tvh-tags="드라맥스",드라맥스
+http://211.245.55.198:22514/m2u/239.192.69.38:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+
+
+#EXTINF:-1 tvg-id="38" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvh-chnum="40" tvh-tags="SkyDrama",sky Drama
+http://211.245.55.198:22514/m2u/239.192.64.14:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="39" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvh-chnum="41" tvh-tags="NS홈쇼핑",NS홈쇼핑
+http://211.245.55.198:22514/m2u/239.192.65.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="40" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvh-chnum="42" tvh-tags="하이라이트TV",Highlight TV
+http://211.245.55.198:22514/m2u/239.192.68.9:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="41" tvg-logo="http://i.imgur.com/lCGq3v1.png" tvh-chnum="43" tvh-tags="CNTV",CNTV
+http://211.245.55.198:22514/m2u/239.192.64.15:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="42" tvg-logo="http://i.imgur.com/gsnjG4A.png" tvh-chnum="44" tvh-tags="Edge TV",EDGE TV
+http://211.245.55.198:22514/m2u/239.192.69.6:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="43" tvg-logo="http://i.imgur.com/8nE7mmk.png" tvh-chnum="45" tvh-tags="디원",디원
+http://211.245.55.198:22514/m2u/239.192.65.11:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="44" tvg-logo="http://i.imgur.com/xT7pVuI.png" tvh-chnum="46" tvh-tags="드라마H",드라마H
+http://211.245.55.198:22514/m2u/239.192.69.3:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="45" tvg-logo="http://i.imgur.com/GTANuZS.png" tvh-chnum="47" tvh-tags="HQ+",HQ+
+http://211.245.55.198:22514/m2u/239.192.69.236:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="46" tvg-logo="http://i.imgur.com/fwjRwkx.png" tvh-chnum="53" tvh-tags="채널CGV",Ch CGV
+http://211.245.55.198:22514/m2u/239.192.51.7:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1 tvg-id="46" tvg-logo="http://i.imgur.com/qK9KkRd.png" tvh-chnum="53" tvh-tags="캐치ON",캐치ON
