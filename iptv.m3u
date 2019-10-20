@@ -18,8 +18,6 @@ http://58.226.251.192:9981/stream/channelid/1149281159
 
 #EXTINF:-1,JTBC
 http://58.226.251.192:9981/stream/channelid/1828846236
-#EXTINF:-1,JTBC Golf
-http://58.226.251.192:9981/stream/channelid/842943920
 #EXTINF:-1,JTBC2
 http://58.226.251.192:9981/stream/channelid/1384623240
 #EXTINF:-1,JTBC3 FOX SPORTS
@@ -62,6 +60,10 @@ http://58.226.251.192:9981/stream/channelid/1102005229
 #EXTINF:-1,Olive
 http://58.226.251.192:9981/stream/channelid/646780617
 
+#EXTINF:-1,MBC NET
+http://58.226.251.192:9981/stream/channelid/1753306843
+#EXTINF:-1,온스타일
+http://58.226.251.192:9981/stream/channelid/1430885937
 
 #EXTINF:-1,OCN
 http://58.226.251.192:9981/stream/channelid/1469478700
@@ -71,22 +73,12 @@ http://211.178.72.29:9981/stream/channelid/1546930762
 http://58.226.251.192:9981/stream/channelid/1421219979
 #EXTINF:-1,Fox life
 http://58.226.251.192:9981/stream/channelid/1099492113
-#EXTINF:-1,인디필름
-http://58.226.251.192:9981/stream/channelid/527572421
 #EXTINF:-1,채널CGV
 http://58.226.251.192:9981/stream/channelid/1630321596
-#EXTINF:-1,FX
-http://58.226.251.192:9981/stream/channelid/1985803812
-#EXTINF:-1,THE MOVIE
-http://211.178.72.29:9981/stream/channelid/1727744592
 #EXTINF:-1,스크린
 http://58.226.251.192:9981/stream/channelid/707719411
 #EXTINF:-1,AXN
 http://58.226.251.192:9981/stream/channelid/116411393
-#EXTINF:-1,Celestial Movies
-http://58.226.251.192:9981/stream/channelid/354486957
-#EXTINF:-1,HQ+
-http://58.226.251.192:9981/stream/channelid/381888781
 
 #EXTINF:-1,슈퍼액션
 http://58.226.251.192:9981/stream/channelid/1804747459
@@ -108,6 +100,16 @@ http://58.226.251.192:9981/stream/channelid/42721932
 http://58.226.251.192:9981/stream/channelid/630107322
 #EXTINF:-1,Star Sports
 http://58.226.251.192:9981/stream/channelid/1805943521
+#EXTINF:-1,JTBC Golf
+http://58.226.251.192:9981/stream/channelid/842943920
+
+#EXTINF:-1,FX
+http://58.226.251.192:9981/stream/channelid/1985803812
+#EXTINF:-1,THE MOVIE
+http://211.178.72.29:9981/stream/channelid/1727744592
+#EXTINF:-1,HQ+
+http://58.226.251.192:9981/stream/channelid/381888781
+
 
 #EXTINF:-1,CNN US
 http://58.226.251.192:9981/stream/channelid/316511716
@@ -164,8 +166,7 @@ http://58.226.251.192:9981/stream/channelid/2002557174
 
 #EXTINF:-1,MBC MUSIC
 http://58.226.251.192:9981/stream/channelid/1264173255
-#EXTINF:-1,MBC NET
-http://58.226.251.192:9981/stream/channelid/1753306843
+
 
 #EXTINF:-1,Mnet
 http://58.226.251.192:9981/stream/channelid/1382904341
@@ -233,12 +234,6 @@ http://58.226.251.192:9981/stream/channelid/1150517299
 
 #EXTINF:-1,신기한나라TV
 http://58.226.251.192:9981/stream/channelid/1585061904
-
-#EXTINF:-1,온스타일
-http://58.226.251.192:9981/stream/channelid/1430885937
-
-#EXTINF:-1,채널 J
-http://211.178.72.29:9981/stream/channelid/1776731422
 
 #EXTINF:-1,코미디TV
 http://58.226.251.192:9981/stream/channelid/1036061999
