@@ -60,8 +60,8 @@ http://58.226.251.192:9981/stream/channelid/1102005229
 #EXTINF:-1,Olive
 http://58.226.251.192:9981/stream/channelid/646780617
 
-#EXTINF:-1,MBC NET
-http://58.226.251.192:9981/stream/channelid/1753306843
+#EXTINF:-1,Mnet
+http://58.226.251.192:9981/stream/channelid/1382904341
 #EXTINF:-1,온스타일
 http://58.226.251.192:9981/stream/channelid/1430885937
 
@@ -152,6 +152,9 @@ http://58.226.251.192:9981/stream/channelid/319465062
 #EXTINF:-1,KBS DRAMA
 http://58.226.251.192:9981/stream/channelid/402119703
 
+#EXTINF:-1,MBC NET
+http://58.226.251.192:9981/stream/channelid/1753306843
+
 #EXTINF:-1,KBS kids
 http://58.226.251.192:9981/stream/channelid/1518430885
 
@@ -168,8 +171,6 @@ http://58.226.251.192:9981/stream/channelid/2002557174
 http://58.226.251.192:9981/stream/channelid/1264173255
 
 
-#EXTINF:-1,Mnet
-http://58.226.251.192:9981/stream/channelid/1382904341
 
 #EXTINF:-1,mplex
 http://58.226.251.192:9981/stream/channelid/848320461
