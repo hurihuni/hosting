@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SBS 플러스
-http://211.245.55.198:22514/m2u/239.192.49.7:49220
+http://218.237.78.78:9981/stream/channel/aa82960f430a7d7a34f092201747c988?profile=webtv-h264-aac-matroska
 #EXTINF:-1,공영쇼핑
 http://211.245.55.198:22514/m2u/239.192.66.6:49220
 #EXTINF:-1,tvN
