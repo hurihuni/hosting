@@ -1,149 +1,254 @@
 #EXTM3U
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/252" tvg-id="381af914a30fc897deaa6f145a254d61",*tvN
-http://1.239.61.137:9981/stream/channelid/351869496?ticket=1C65771E6D15B7928762A9D85F8A8CAFED3A9065&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/142" tvg-id="845961d7e20dbb624974fdf61373f5eb",131 - Channel 131
-http://1.239.61.137:9981/stream/channelid/1465997700?ticket=CED564A5E270F960A8FC36DFAAB396047E2AB111&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/139" tvg-id="dc125e875ef2866273c3ea74288d2d31",132 - Channel 132
-http://1.239.61.137:9981/stream/channelid/123605724?ticket=7B050430D758EF47176D41D1A98EC2ADD4F5F03C&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/10" tvg-id="676a5d7195577fda9f4e035a94b85551",133 - Channel 133
-http://1.239.61.137:9981/stream/channelid/1901947495?ticket=B7B3701C530CDF154CCB87881DC4E16642D27766&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/148" tvg-id="48a1d4e9a11ead69b41bd4b7eabf5132",15 - Channel 15
-http://1.239.61.137:9981/stream/channelid/1775542600?ticket=CE556057B1A99FE30B97207544E2A1EC016ABAE5&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/326" tvg-id="aa1617489ee4d1acae85d8a37da92111",191 - Channel 191
-http://1.239.61.137:9981/stream/channelid/1209472682?ticket=56E02BBD854873CFA62EFA915D271F435630AD8A&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/12" tvg-id="02ad270ae95620d2e28e1875eadb3cb5",47 - Channel 47
-http://1.239.61.137:9981/stream/channelid/170372354?ticket=E2D2DEF445318BFC680E2F75F7A7F6A0A3696751&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/16" tvg-id="6bec46482b98b143e060e26e781f8dfd",48 - Channel 48
-http://1.239.61.137:9981/stream/channelid/1212607595?ticket=0C47255E2CF58F5B0E346341FAB481486F239FCD&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/153" tvg-id="65ff1ca54278dd13bcc536f21d06fa58",49 - Channel 49
-http://1.239.61.137:9981/stream/channelid/622657381?ticket=9D9CC6641CB18690FB5C7336E377EC761BD99D41&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/154" tvg-id="21b3b43824c995a9f29cbda8d3c087e4",50 - Channel 50
-http://1.239.61.137:9981/stream/channelid/951366433?ticket=DB4443BFDE6995C4AE4C2A7C2934CFFEF89E9658&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/155" tvg-id="0c1f96e98b608c764f68fb5c47661bba",62 - Channel 62
-http://1.239.61.137:9981/stream/channelid/1771446028?ticket=998305974E7B42D4953C125DC4E705224BBFD374&profile=pass
-#EXTINF:0 logo="http://1.239.61.137:9981/imagecache/252" tvg-id="20ce1fac3f60720f500ed44e817cdca9",65 - Channel 65
-http://1.239.61.137:9981/stream/channelid/740281888?ticket=4A45F57975E00929013264C3D781D92EB945FCAD&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/227" tvg-id="8b0b0d6ba03e00de733c7b078a2f709b",90 - Channel 90
-http://1.239.61.137:9981/stream/channelid/1796017035?ticket=7C80C2D4D068E522185FE71327679A43709F65E9&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/109" tvg-id="c52c3b55c38be218b3f83e2fb8b79965",BBC earth
-http://1.239.61.137:9981/stream/channelid/1429941445?ticket=4C300D15AACEE1118DDE21AEE63C0D79703AD859&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/269" tvg-id="ddb6b54df2cf508b62c1bf53bb2b4215",CINE f
-http://1.239.61.137:9981/stream/channelid/1303754461?ticket=F560AF91A511FD462077C34E6C7AEE601E0BE169&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/46" tvg-id="4aaa9163f68f4ac77593c4a4e05a3e2f",CMCTV
-http://1.239.61.137:9981/stream/channelid/1670490698?ticket=D762092BEAF737FAB28CDED4ED203FE4A27B442E&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/179" tvg-id="dc564ec7b64753d92d399fd1ce3aaa64",DIA TV
-http://1.239.61.137:9981/stream/channelid/1196316380?ticket=2B8804FA94287D92155E7B5BAA3709F465131705&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/349" tvg-id="87f1d4c14374f8f45f007e9abdbb411d",Discovery
-http://1.239.61.137:9981/stream/channelid/1104474503?ticket=E435B50BF53F2EC9474749BB1D71075DB67DB5C2&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/243" tvg-id="8d4c807667e02007bed86aa80be2339c",Drama H
-http://1.239.61.137:9981/stream/channelid/1988119693?ticket=2A69C6976728F8DC4C5FF589A01D4872231F6F8E&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/195" tvg-id="00475b1862f0f8b92b7889cbd200458f",E! Entertainment
-http://1.239.61.137:9981/stream/channelid/408635136?ticket=B96B0E9E2550804B7FA38CC34BCE0C8167ABD900&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/364" tvg-id="90dfc93c20e44827b3b0cc231e5fe338",JTBC
-http://1.239.61.137:9981/stream/channelid/1019862928?ticket=100E891D3CD162B110C5300A09FB72F49808DAB4&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/129" tvg-id="b02e00512f4cf3bbc4dc5bcf519f6720",JTBC3 FOX SPORTS
-http://1.239.61.137:9981/stream/channelid/1358966448?ticket=5EE730086E253C8857BAD7DD637BBD8F4CBD84ED&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/255" tvg-id="b0f34eef642f3187b9daa392ac57d2d4",JTBC3 FOX SPORTS
-http://1.239.61.137:9981/stream/channelid/1867445168?ticket=5023EC383071C2E409D1DD1FBE6A2F58DE48BD44&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/202" tvg-id="a0661155e15c517eed2d5005476412c6",JTBC4
-http://1.239.61.137:9981/stream/channelid/1427203744?ticket=22432BBEF5D84543EA133F60C7D5D2F8CFDC39E3&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/107" tvg-id="dbabaa389e7574464e7e0422e2b0b5e0",KBS N Sports
-http://1.239.61.137:9981/stream/channelid/950709211?ticket=A0066D52DAE09CA0C39F50669AD1E3511914D591&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/17" tvg-id="78efee2cbab6fb5159b1c98ed29bbfc0",KBS Sports
-http://1.239.61.137:9981/stream/channelid/753856376?ticket=C8EDEE1B9876FA09AC3001A32198EF57334196C1&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/276" tvg-id="c3d8fb8e282a4075ac92a027ebcb7b59",KBS1 LIVE
-http://1.239.61.137:9981/stream/channelid/251386051?ticket=AD42119C87E6EAC56F005E2850362767BA97C6FF&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/122" tvg-id="de68472cee00fec9da92592d90b3e5e0",KBS2
-http://1.239.61.137:9981/stream/channelid/742877406?ticket=583D36E95D3A85D23CC165DCCC71FA362A0CE87E&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/345" tvg-id="83fbafe49e0725e1dcb4f5bec13202e0",KBSN Life
-http://1.239.61.137:9981/stream/channelid/1689254787?ticket=6C0F56C1908BFCA627AF6A21BD8343ACAC3F8308&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/342" tvg-id="733acd87399362709e7516ba01922d62",KBSN SPORTS
-http://1.239.61.137:9981/stream/channelid/130890355?ticket=4B1DBBED5700AE503A718F2F00ECE49EA162970B&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/100" tvg-id="63fd25e42c56e0b3c8e6399f82a88c52",Life U
-http://1.239.61.137:9981/stream/channelid/1680211299?ticket=EFC736C1603C2DC624C74C87FB0743BD814A380D&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/222" tvg-id="1e5adfbbc4377b67710d979895b0cb33",Lifetime
-http://1.239.61.137:9981/stream/channelid/1004493342?ticket=E66DD1025A61C369E5ECD1728573873A7DE32AC2&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/80" tvg-id="a0cb2cfcc42df7e67562bb3e32ca3a17",MBC Drama
-http://1.239.61.137:9981/stream/channelid/2083310496?ticket=3FC5401283990A2B1732C69276899985ABB8A3C8&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/237" tvg-id="ed3ff48ee96758b4eed741580a9527d7",MBC Every1
-http://1.239.61.137:9981/stream/channelid/250888173?ticket=EC498322D4D053267E32F606ACF67CF45CA5FED5&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/324" tvg-id="622affc19d536e9bfcca635f25760a43",MBC ON
-http://1.239.61.137:9981/stream/channelid/1107241570?ticket=A4882DA74B58B9DCFFB21B054DAEE1FE416247AC&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/119" tvg-id="762f0a1f7a07b8233b9e92ecbd6ba59f",MBC ON
-http://1.239.61.137:9981/stream/channelid/520761206?ticket=21E073A82F7F8315DBAD98226EAB892BEAAA454B&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/348" tvg-id="23e70c7b5f7eea26126f6e45769cd445",MBC ON
-http://1.239.61.137:9981/stream/channelid/2064443171?ticket=280438DDDF8FA75963C6C027F04478CDD11FE59A&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/150" tvg-id="8c44a26e6e01f12f569e7c2ad209ecf7",MBC SPORTS+2
-http://1.239.61.137:9981/stream/channelid/1856128140?ticket=CE88F9F6AEA00662A48E406F4E152F7A207EE8BC&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/268" tvg-id="bab7c3c5522f8785f0e26131a4f4e822",myZenTV
-http://1.239.61.137:9981/stream/channelid/1170454458?ticket=0550E4B3518B543C73A8EB6BC0D7DBF4B37E13E8&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/12" tvg-id="00906bb2acecb03a4282e77635159e4c",NHK WP
-http://1.239.61.137:9981/stream/channelid/845910016?ticket=E1DFA36CA1CB7668C53664E310E0C156117A5698&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/64" tvg-id="fd133c5ac63ff0ec06f6447e2cd917c5",O tvN
-http://1.239.61.137:9981/stream/channelid/1513886717?ticket=2EE357C787E3D870E2D85A24DDD3233ADF704961&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/360" tvg-id="a60ec2c7f2b9208bcf14b4ce306504d0",Olive
-http://1.239.61.137:9981/stream/channelid/1203900070?ticket=C53E4E21FDD58F4DC4599DFE8E2A0BB7AE969F00&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/216" tvg-id="2d94fb2f2c1352a5bb33cf866f94f6f0",POLARIS
-http://1.239.61.137:9981/stream/channelid/805016621?ticket=934D105AE210A7082B6ECBD84CA4FBA5C4F918D1&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/20" tvg-id="5c58ad8fe5989cf177f6b1948b0afa0e",SBS
-http://1.239.61.137:9981/stream/channelid/263018588?ticket=AB4C0CDA634C59531BCC73ED804C5D08E81BFF14&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/68" tvg-id="dc5b8cb60fc24155db4ac4fe232bc47d",SBS afreeca
-http://1.239.61.137:9981/stream/channelid/915168220?ticket=5B1666C7B410D6823FB4C935A88CCA9417C41828&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/15" tvg-id="56708cc41fec0d83d2d485141599475b",SBS MTV
-http://1.239.61.137:9981/stream/channelid/1150054486?ticket=98C5D31128208E6ED66186AAED5AA95BCE2AD4C8&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/19" tvg-id="1e3b57ea9ebc52677e0723e9ce12d7c2",SBS Sports
-http://1.239.61.137:9981/stream/channelid/1784101662?ticket=35D0C94B1BED7273C354D730B5B346523B9DCA34&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/101" tvg-id="4e2cedb035b5ae67c9d49f060a92837c",SBS Sports
-http://1.239.61.137:9981/stream/channelid/820849742?ticket=6EFED864868D38E73E4A095D44C976B61C785BFE&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/310" tvg-id="54d0d5a874a22aa3cfb20fa344362d06",Screen Golfzone
-http://1.239.61.137:9981/stream/channelid/685101140?ticket=7CC7F1A3F6C577BA2D890BC42B628C84F047437A&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/13" tvg-id="dd3aa94b56d9a45dbf2ec06319e5663a",skyENT
-http://1.239.61.137:9981/stream/channelid/1269381853?ticket=86C04C7B6631378D0945FE1C6A5B53F4EBEBE54A&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/69" tvg-id="f2e432fa02847e11ba02939ebf10c259",SkySports
-http://1.239.61.137:9981/stream/channelid/2050155762?ticket=F31515471FF7871CB29A66241C97810BAD99E364&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/50" tvg-id="31b8eb29dad2a164707fb7d27bb9ac4c",SPOTV Games
-http://1.239.61.137:9981/stream/channelid/703313969?ticket=41B50583E1043BD37175C9AFDB41710F8CC19E2B&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/332" tvg-id="5e9ac7c3b888ecfe79f2c4e79de8dfc3",SPOTV ON
-http://1.239.61.137:9981/stream/channelid/1137154654?ticket=7AA96F0BFB63C1155F73DF740E285F66B8C39D5A&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/40" tvg-id="d757743540ac3773823f1f1438084b62",SPOTV+
-http://1.239.61.137:9981/stream/channelid/896817111?ticket=FC462527D8BFAC02CAB5BB4E2A4EFFC6FD6AA7F5&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/61" tvg-id="4eff72a136ab534f810f32fa3f6802dd",SPOTV2 Live
-http://1.239.61.137:9981/stream/channelid/561184590?ticket=818D4A0674BAF33B5188DB88BF6ECF4A0A848033&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/83" tvg-id="384434d7968d9d42cd969c997255f4e7",STINGRAY CLASSICA
-http://1.239.61.137:9981/stream/channelid/1463043128?ticket=31F4760ACDD4A479185F614789DBBFC1FCD80D2E&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/282" tvg-id="4d393534994893be9711d560e0aa9fb8",tbs Live
-http://1.239.61.137:9981/stream/channelid/875903309?ticket=AB52C68672E6F44438B19756066C8602C92B965C&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/49" tvg-id="8bbd0eb6fef0973bd05e369b722c03e2",The Golf Channel
-http://1.239.61.137:9981/stream/channelid/906935691?ticket=E43AE2407B676B441A4BD9FD5BC755DB04F49A03&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/226" tvg-id="505a614d91585a9fa27379ab8f96f4c9",TRENDY
-http://1.239.61.137:9981/stream/channelid/1298225744?ticket=92AFC515CEFDC4CAC2D0CFFF2D2111F631D8BAC9&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/103" tvg-id="51ddee1777348f023ab8d7e5187eb6f1",TVCHOSUN2
-http://1.239.61.137:9981/stream/channelid/401530193?ticket=8E27627F51F59F8DBC2324962D826B7B8BCC4D79&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/81" tvg-id="f2607759f5a9455c3fe2f7235e2a448f",tvN
-http://1.239.61.137:9981/stream/channelid/1500995826?ticket=9687837EFA61DEBF769C2745612AF9F8CE6869F1&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/261" tvg-id="fc12232a21de1930ce0f39afbbb1b470",UHD Dream TV
-http://1.239.61.137:9981/stream/channelid/706941692?ticket=9A9826EC3E9E6B7B14AB3B8945231577D7F3DD59&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/70" tvg-id="fc2dfbaaf5aaed59c77690cf571c1b8b",XTM
-http://1.239.61.137:9981/stream/channelid/721104380?ticket=2780220E01DEEE681C203B31A89767453DBA06C9&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/304" tvg-id="5ddb904dd2d81911cc6606a5acc46c9b",?숈븘TV
-http://1.239.61.137:9981/stream/channelid/1301338973?ticket=61F3485CF8ABBFEF853246705CC6944CDEDE4B1D&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/250" tvg-id="d5f795daa020348c054015661b899535",?숈븘TV
-http://1.239.61.137:9981/stream/channelid/1519777749?ticket=AF0BECCF6D99686329F079D6A9B2CFD27DC81802&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/75" tvg-id="d5c5682bf5a2fb8c704b773af88f2dfb",由щ튃TV
-http://1.239.61.137:9981/stream/channelid/728286677?ticket=FEB2667D25457F7643E66AD806208F29AAFCCB15&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/278" tvg-id="10d047ba66d1cb020ab6d1a50a297cf2",釉뚮┸吏TV
-http://1.239.61.137:9981/stream/channelid/977784848?ticket=FAFCC6323F1150C2B5ED184D1ABDB6F725CF6AB6&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/319" tvg-id="589e850ea7fdf35277e742608c7cfe64",?쒖슱寃쎌젣TV
-http://1.239.61.137:9981/stream/channelid/243637848?ticket=2F932EB44CD533AF72CC95194137116DC6B62437&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/148" tvg-id="57c0645c0930ebf0976ad12f097b5e8c",梨꾨꼸 J
-http://1.239.61.137:9981/stream/channelid/1550106711?ticket=3D357183E9112FA9C1A9080E55BAEC15F6098B48&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/284" tvg-id="1a11fbb9b44b59b3de192b2330d28ecf",罹먮━TV
-http://1.239.61.137:9981/stream/channelid/972755226?ticket=584C4C685EF0D3FEA9A21E13A290AAE5BEFE600B&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/137" tvg-id="1b831636772282fecea81cb535413fcb",?뚮젅?대윴TV
-http://1.239.61.137:9981/stream/channelid/907445019?ticket=724382B499F0C44C38D4C636E32C96368669A7E5&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/305" tvg-id="c50e229076a94943bf17ca8baed94542",?뚮젅?대윴TV
-http://1.239.61.137:9981/stream/channelid/270667461?ticket=9A73754D6142C0FEF14FE4C65DF5FD22145AE228&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/16" tvg-id="826826101fce511aa79cf0c435e5b836",?ъ뒪硫붾뵒tv
-http://1.239.61.137:9981/stream/channelid/270952578?ticket=3D022B6AD6C62676BE1EF172CF2FAF0311485054&profile=pass
-#EXTINF:-1 logo="http://1.239.61.137:9981/imagecache/227" tvg-id="a07e39b69305941c10f263ad7b2c4221",SkyDrama
-http://1.239.61.137:9981/stream/channelid/909737632?ticket=43DBC9AB8B617DFA464E85C58E12B566CFF636D9&profile=pass
+#EXTNAME:
+
+#EXTINF:0, 1 - KBS1
+#EXTTV:;;
+udp://@239.192.38.1:49220
+
+#EXTINF:0, 2 - KBS2
+#EXTTV:;;
+udp://@239.192.39.1:49220
+
+#EXTINF:0, 3 - SBS
+#EXTTV:;;
+udp://@239.192.41.2:49220
+
+#EXTINF:0, 4 - EBS2
+#EXTTV:;kor;
+udp://@239.192.42.2:49220
+
+#EXTINF:0, 39 - JTBC
+#EXTTV:;eng;
+udp://@239.192.58.7:49220
+
+#EXTINF:0, 47 - YTN
+#EXTTV:;kor;
+udp://@239.192.62.115:49220
+
+#EXTINF:0, 27 - KBSNSPORTS
+#EXTTV:;eng;
+udp://@239.192.55.5:49220
+
+#EXTINF:0, 43 - MBC_SPORT+
+#EXTTV:;eng;
+udp://@239.192.59.3:49220
+
+#EXTINF:0, 46 - SBS_SPORTS
+#EXTTV:;eng;
+udp://@239.192.59.7:49220
+
+#EXTINF:0, 36 - SPOTV
+#EXTTV:;;
+udp://@239.192.58.3:49220
+
+#EXTINF:0, 70 - SPOTV2
+#EXTTV:;;
+udp://@239.192.67.162:49220
+
+#EXTINF:0, 71 - SPOTV+
+#EXTTV:;;
+udp://@239.192.67.163:49220
+
+#EXTINF:0, 81 - JTBC3_FOXSPORTS
+#EXTTV:;;
+udp://@239.192.69.7:49220
+
+#EXTINF:0, 87 - SPOTV+
+#EXTTV:;;
+udp://@239.192.69.78:49220
+
+#EXTINF:0, 33 - IBSPORTS
+#EXTTV:;eng;
+udp://@239.192.57.7:49220
+
+#EXTINF:0, 15 - CH_CGV
+#EXTTV:;;
+udp://@239.192.51.7:49220
+
+#EXTINF:0, 16 - OCN
+#EXTTV:;;
+udp://@239.192.52.8:49220
+
+#EXTINF:0, 20 - SUPER_ACTION
+#EXTTV:;;
+udp://@239.192.53.9:49220
+
+#EXTINF:0, 18 - TvN
+#EXTTV:;;
+udp://@239.192.53.7:49220
+
+#EXTINF:0, 31 - XtvN
+#EXTTV:;eng;
+udp://@239.192.57.6:49220
+
+#EXTINF:0, 23 - OtvN
+#EXTTV:;;
+udp://@239.192.53.10:49220
+
+#EXTINF:0, 5 - 채널A
+#EXTTV:;kor;
+udp://@239.192.47.4:49220
+
+#EXTINF:0, 6 - YTN
+#EXTTV:;kor;
+udp://@239.192.47.7:49220
+
+#EXTINF:0, 7 - MBC_DRAMA
+#EXTTV:;eng;
+udp://@239.192.48.6:49220
+
+#EXTINF:0, 8 - MNET
+#EXTTV:;;
+udp://@239.192.48.5:49220
+
+#EXTINF:0, 9 - 현대홈쇼핑
+#EXTTV:;eng;
+udp://@239.192.48.4:49220
+
+#EXTINF:0, 10 - MBC_EVERY1
+#EXTTV:;eng;
+udp://@239.192.50.6:49220
+
+#EXTINF:0, 17 - NS홈쇼핑
+#EXTTV:;eng;
+udp://@239.192.52.10:49220
+
+#EXTINF:0, 19 - MBC_MUSIC
+#EXTTV:;eng;
+udp://@239.192.53.4:49220
+
+#EXTINF:0, 21 - SBC_CNBC
+#EXTTV:;eng;
+udp://@239.192.53.8:49220
+
+#EXTINF:0, 22 - 홈&쇼핑
+#EXTTV:;eng;
+udp://@239.192.53.6:49220
+
+#EXTINF:0, 26 - DISNEY_JUNIOR
+#EXTTV:;eng;
+udp://@239.192.54.8:49220
+
+#EXTINF:0, 28 - KBSJOY
+#EXTTV:;eng;
+udp://@239.192.56.6:49220
+
+#EXTINF:0, 29 - 롯데홈쇼핑
+#EXTTV:;eng;
+udp://@239.192.56.5:49220
+
+#EXTINF:0, 30 - 연합뉴스TV
+#EXTTV:;eng;
+udp://@239.192.57.3:49220
+
+#EXTINF:0, 32 - SBS_GOLF
+#EXTTV:;eng;
+udp://@239.192.57.5:49220
+
+#EXTINF:0, 35 - KBSW
+#EXTTV:;eng;
+udp://@239.192.57.8:49220
+
+#EXTINF:0, 40 - OLIVE
+#EXTTV:;;
+udp://@239.192.58.10:49220
+
+#EXTINF:0, 42 - CJOSHOPPING
+#EXTTV:;eng;
+udp://@239.192.58.11:49220
+
+#EXTINF:0, 44 - JTBC_GOLF
+#EXTTV:;eng;
+udp://@239.192.59.5:49220
+
+#EXTINF:0, 49 - 신세계쇼핑
+#EXTTV:;;
+udp://@239.192.64.6:49220
+
+#EXTINF:0, 50 - 국회방송
+#EXTTV:;eng;
+udp://@239.192.64.5:49220
+
+#EXTINF:0, 51 - CJOSHOPPING+
+#EXTTV:;;
+udp://@239.192.64.7:49220
+
+#EXTINF:0, 53 - MPLEX_HD
+#EXTTV:;;
+udp://@239.192.64.10:49220
+
+#EXTINF:0, 54 - SKSTOA
+#EXTTV:;;
+udp://@239.192.64.12:49220
+
+#EXTINF:0, 55 - KOREA_TV
+#EXTTV:;;
+udp://@239.192.64.11:49220
+
+#EXTINF:0, 58 - C_CHINA
+#EXTTV:;;
+udp://@239.192.64.9:49220
+
+#EXTINF:0, 59 - NSSHOP+
+#EXTTV:;;
+udp://@239.192.65.6:49220
+
+#EXTINF:0, 60 - DONE
+#EXTTV:;;
+udp://@239.192.65.11:49220
+
+#EXTINF:0, 61 - ASIAN
+#EXTTV:;;
+udp://@239.192.65.5:49220
+
+#EXTINF:0, 62 - ARTE
+#EXTTV:;eng;
+udp://@239.192.65.8:49220
+
+#EXTINF:0, 63 - 부메랑
+#EXTTV:;;
+udp://@239.192.65.12:49220
+
+#EXTINF:0, 64 - SKSTOA
+#EXTTV:;;
+udp://@239.192.66.9:49220
+
+#EXTINF:0, 65 - JTBC2
+#EXTTV:;;
+udp://@239.192.66.16:49220
+
+#EXTINF:0, 67 - KSHOPPING
+#EXTTV:;;
+udp://@239.192.66.17:49220
+
+#EXTINF:0, 69 - KBS1
+#EXTTV:;;
+udp://@239.192.67.100:49220
+
+#EXTINF:0, 72 - SBS_GOLF
+#EXTTV:;;
+udp://@239.192.67.164:49220
+
+#EXTINF:0, 73 - JTBC_GOLF
+#EXTTV:;;
+udp://@239.192.67.165:49220
+
+#EXTINF:0, 74 - CJOSHOPPING
+#EXTTV:;;
+udp://@239.192.67.194:49220
+
+#EXTINF:0, 80 - EDGE_TV
+#EXTTV:;;
+udp://@239.192.69.6:49220
+
+#EXTINF:0, 89 - 현대홈쇼핑
+#EXTTV:;;
+udp://@239.192.69.110:49220
+
+#EXTINF:0, 94 - EDUTV
+#EXTTV:;;
+udp://@239.192.69.144:49220
+
+#EXTINF:0, 95 - FASHIONN
+#EXTTV:;;
+udp://@239.192.69.140:49220
