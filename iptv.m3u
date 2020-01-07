@@ -253,5 +253,5 @@ udp://@239.192.69.144:49220
 #EXTTV:;;
 udp://@239.192.69.140:49220
 
-#EXTINF:-1,TV조선 https://iptv.live
-http://218.237.78.78:9981/stream/channelid/214010981
+#EXTINF:-1,TV조선
+http://58.122.115.168:9991/stream/channelid/235410031
