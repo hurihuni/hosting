@@ -252,3 +252,6 @@ udp://@239.192.69.144:49220
 #EXTINF:0, 95 - FASHIONN
 #EXTTV:;;
 udp://@239.192.69.140:49220
+
+#EXTINF:-1,TV조선 https://iptv.live
+http://218.237.78.78:9981/stream/channelid/214010981
