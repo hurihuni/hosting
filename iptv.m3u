@@ -255,3 +255,6 @@ udp://@239.192.69.140:49220
 
 #EXTINF:-1,TV조선1
 http://175.116.137.152:9981/stream/channelid/1527398470
+
+#EXTINF:-1,TV조선2
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
